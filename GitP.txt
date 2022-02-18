@@ -6,3 +6,5 @@ Git command test==>
     add file to beta
     file
     adding to beta
+    hi
+    adding new
