@@ -8,3 +8,6 @@ Git command test==>
     adding to beta
     hi
     adding new
+
+
+    adding to beta
