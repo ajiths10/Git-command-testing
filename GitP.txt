@@ -3,3 +3,4 @@ Git command test==>
     testing purpose
 
     //adding extra line;
+    add file to beta
