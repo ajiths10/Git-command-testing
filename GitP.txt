@@ -8,7 +8,10 @@ Git command test==>
     adding to beta
     hi
     adding new
-
+{
+new banch creating
+for new
+}
 
     adding to beta
     new abc
